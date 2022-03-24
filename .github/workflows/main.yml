@@ -1,0 +1,992 @@
+2015-10-01.log:03:26 < aj> sipa: i think someone says #startmeeting and becomes the chair as a result
+2016-02-18.log:11:04 < wumpus> #startmeeting
+2016-02-18.log:11:20 < wumpus> #endmeeting
+2016-02-25.log:11:01 < gmaxwell> #startmeeting
+2016-02-25.log:11:41 < gmaxwell> #endmeeting
+2016-03-03.log:11:06 < gmaxwell> #startmeeting
+2016-03-03.log:12:00 < gmaxwell> #endmeeting
+2016-03-10.log:11:00 < wumpus> #startmeeting
+2016-03-10.log:11:58 < wumpus> #endmeeting
+2016-03-17.log:12:00 < wumpus> #startmeeting
+2016-03-17.log:12:53 < wumpus> #endmeeting
+2016-03-24.log:12:00 < wumpus> #startmeeting
+2016-03-24.log:12:56 < wumpus> #endmeeting
+2016-03-31.log:11:59 < wumpus> #startmeeting
+2016-03-31.log:12:59 < wumpus> #endmeeting
+2016-03-31.log:13:01 < jtimon> wait, how can this be endmeeting? wasn't the meeting starting at 8 pm? I was supposed to have missed the meeting 2 hours ago. Bad job communicating the hour changes ;)
+2016-04-07.log:12:01 < wumpus> #startmeeting
+2016-04-07.log:12:55 < wumpus> #endmeeting
+2016-04-14.log:12:00 < wumpus> #startmeeting
+2016-04-14.log:12:59 < wumpus> #endmeeting
+2016-04-21.log:12:00 < wumpus> #startmeeting
+2016-04-21.log:12:47 < wumpus> #endmeeting
+2016-04-28.log:12:00 < wumpus> #startmeeting
+2016-04-28.log:12:55 < wumpus> #endmeeting
+2016-05-05.log:12:01 < wumpus> #startmeeting
+2016-05-05.log:12:53 < wumpus> #endmeeting
+2016-05-05.log:13:40 < tripleslash> CodeShark: [2016/05/05 14:52:47] <wumpus> #endmeeting
+2016-05-12.log:12:01 < wumpus> #startmeeting
+2016-05-12.log:12:51 < wumpus> #endmeeting
+2016-05-19.log:12:02 < BlueMatt> #startmeeting
+2016-05-19.log:12:24 < BlueMatt> #endmeeting
+2016-05-26.log:12:05 < sdaftuar> startmeeting i think?
+2016-05-26.log:12:06 < btcdrak> # startmeeting
+2016-05-26.log:12:06 < sipa> !startmeeting
+2016-05-26.log:12:06 < gribble> Error: "startmeeting" is not a valid command.
+2016-05-26.log:12:06 < sipa> #startmeeting
+2016-05-26.log:12:52 < sipa> #endmeeting
+2016-06-02.log:12:00 < wumpus> #startmeeting
+2016-06-02.log:12:59 < wumpus> #endmeeting
+2016-06-09.log:12:00 < wumpus> #startmeeting
+2016-06-09.log:13:00 < wumpus> #endmeeting
+2016-06-16.log:12:00 < wumpus> #startmeeting
+2016-06-16.log:13:00 <@wumpus> #endmeeting
+2016-06-23.log:12:02 <@wumpus> #startmeeting
+2016-06-23.log:12:49 <@wumpus> #endmeeting
+2016-06-30.log:12:01 < gmaxwell> #startmeeting
+2016-06-30.log:12:58 < petertodd> ack endmeeting
+2016-06-30.log:12:58 < gmaxwell> #endmeeting
+2016-07-07.log:12:00 <@wumpus> #startmeeting
+2016-07-07.log:12:55 <@wumpus> #endmeeting
+2016-07-14.log:12:00 <@wumpus> #startmeeting
+2016-07-14.log:13:01 <@wumpus> #endmeeting
+2016-07-21.log:11:59 < wumpus> #startmeeting
+2016-07-21.log:12:59 < wumpus> #endmeeting
+2016-07-28.log:12:01 < wumpus> #startmeeting
+2016-07-28.log:13:00 < wumpus> #endmeeting
+2016-08-04.log:12:00 < wumpus> #startmeeting
+2016-08-04.log:12:58 < wumpus> #endmeeting
+2016-08-11.log:11:59 < wumpus> #startmeeting
+2016-08-11.log:13:00 < wumpus> #endmeeting
+2016-08-18.log:12:00 < wumpus> #startmeeting
+2016-08-18.log:13:01 < wumpus> #endmeeting
+2016-08-25.log:12:02 < wumpus> #startmeeting
+2016-08-25.log:12:57 < wumpus> #endmeeting
+2016-09-01.log:12:01 < wumpus> #startmeeting
+2016-09-01.log:13:00 < wumpus> #endmeeting
+2016-09-08.log:11:59 < wumpus> #startmeeting
+2016-09-08.log:12:52 < wumpus> #endmeeting
+2016-09-15.log:12:01 < jonasschnelli> #startmeeting
+2016-09-15.log:12:53 < jonasschnelli> #endmeeting
+2016-09-22.log:11:59 < wumpus> #startmeeting
+2016-09-22.log:13:01 < wumpus> #endmeeting
+2016-09-29.log:12:01 < wumpus> #startmeeting
+2016-09-29.log:13:00 < wumpus> #endmeeting
+2016-10-13.log:12:04 < wumpus> #startmeeting
+2016-10-13.log:13:00 < wumpus> #endmeeting
+2016-10-20.log:12:00 < wumpus> #startmeeting
+2016-10-20.log:13:00 < wumpus> #endmeeting
+2016-10-27.log:12:01 <@wumpus> #startmeeting
+2016-10-27.log:12:58 <@wumpus> #endmeeting
+2016-11-03.log:12:00 <@wumpus> #startmeeting
+2016-11-03.log:13:00 <@wumpus> #endmeeting
+2016-11-10.log:11:03 <@wumpus> #startmeeting
+2016-11-10.log:11:55 <@wumpus> #endmeeting
+2016-11-17.log:11:04 < jonasschnelli> #startmeeting
+2016-11-17.log:11:57 < jonasschnelli> #endmeeting
+2016-12-01.log:11:00 < wumpus> #startmeeting
+2016-12-01.log:12:00 < wumpus> #endmeeting
+2016-12-08.log:11:00 < wumpus> #startmeeting
+2016-12-08.log:12:02 < wumpus> #endmeeting
+2016-12-15.log:11:00 < wumpus> #startmeeting
+2016-12-15.log:12:01 < wumpus> #endmeeting
+2016-12-22.log:11:00 < gmaxwell> #startmeeting
+2016-12-22.log:11:56 < gmaxwell> #endmeetingItDoesntMatterHowWeSpellItBecauseTheBotIsntHere
+2016-12-22.log:11:56 < gmaxwell> #endmeeting
+2017-01-05.log:11:00 < wumpus> #startmeeting
+2017-01-05.log:12:00 < wumpus> #endmeeting
+2017-01-12.log:11:00 < wumpus> #startmeeting
+2017-01-12.log:11:56 < wumpus> #endmeeting
+2017-01-19.log:11:00 < wumpus> #startmeeting
+2017-01-19.log:11:46 < wumpus> #endmeeting
+2017-01-26.log:11:00 < wumpus> #startmeeting
+2017-01-26.log:11:59 < wumpus> #endmeeting
+2017-02-02.log:11:00 < wumpus> #startmeeting
+2017-02-02.log:11:40 < BlueMatt> soooo...endmeeting?
+2017-02-02.log:11:40 < wumpus> #endmeeting
+2017-02-09.log:11:01 < wumpus> #startmeeting
+2017-02-09.log:11:49 < wumpus> #endmeeting
+2017-02-16.log:11:02 < wumpus> #startmeeting
+2017-02-16.log:12:01 < wumpus> #endmeeting
+2017-02-23.log:11:00 < wumpus> #startmeeting
+2017-02-23.log:11:58 < wumpus> #endmeeting
+2017-03-02.log:11:01 < wumpus> #startmeeting
+2017-03-02.log:11:56 < wumpus> #endmeeting
+2017-03-09.log:11:00 < wumpus> #startmeeting
+2017-03-09.log:11:44 < wumpus> #endmeeting
+2017-03-16.log:12:01 < wumpus> #startmeeting
+2017-03-16.log:13:00 < wumpus> #endmeeting
+2017-03-23.log:12:00 < wumpus> #startmeeting
+2017-03-23.log:13:00 < wumpus> #endmeeting
+2017-03-30.log:12:01 < wumpus> #startmeeting
+2017-03-30.log:13:01 < wumpus> #endmeeting
+2017-04-06.log:12:02 < wumpus> #startmeeting
+2017-04-06.log:12:24 < wumpus> #endmeeting
+2017-04-13.log:12:00 < wumpus> #startmeeting
+2017-04-13.log:13:00 <@wumpus> #endmeeting
+2017-04-20.log:12:02 <@wumpus> #startmeeting
+2017-04-20.log:13:00 <@wumpus> #endmeeting
+2017-04-27.log:12:02 <@wumpus> #startmeeting
+2017-04-27.log:13:01 <@wumpus> #endmeeting
+2017-05-04.log:12:01 < sipa> #startmeeting
+2017-05-04.log:12:32 < sipa> #endmeeting
+2017-05-11.log:12:00 < wumpus> #startmeeting
+2017-05-11.log:12:58 < wumpus> #endmeeting
+2017-05-18.log:12:01 < wumpus> #startmeeting
+2017-05-18.log:12:59 < wumpus> #endmeeting
+2017-05-25.log:12:00 < wumpus> #startmeeting
+2017-05-25.log:13:00 < wumpus> #endmeeting
+2017-06-01.log:12:00 < wumpus> #startmeeting
+2017-06-01.log:12:59 < wumpus> #endmeeting
+2017-06-08.log:12:00 < wumpus> #startmeeting
+2017-06-08.log:13:00 < wumpus> #endmeeting
+2017-06-15.log:12:00 < wumpus> #startmeeting
+2017-06-15.log:13:00 < wumpus> #endmeeting
+2017-06-22.log:12:00 < wumpus> #startmeeting
+2017-06-22.log:13:01 < wumpus> #endmeeting
+2017-06-29.log:12:00 < wumpus> #startmeeting
+2017-06-29.log:12:59 < wumpus> #endmeeting
+2017-07-06.log:12:00 < wumpus> #startmeeting
+2017-07-06.log:12:49 < wumpus> #endmeeting
+2017-07-13.log:12:01 < wumpus> #startmeeting
+2017-07-13.log:12:58 < wumpus> #endmeeting
+2017-07-20.log:12:00 < wumpus> #startmeeting
+2017-07-20.log:12:44 < wumpus> #endmeeting
+2017-07-27.log:12:00 < wumpus> #startmeeting
+2017-07-27.log:13:01 < wumpus> #endmeeting
+2017-08-03.log:12:00 < wumpus> #startmeeting
+2017-08-03.log:12:48 < wumpus> #endmeeting
+2017-08-10.log:12:00 < wumpus> #startmeeting
+2017-08-10.log:12:06 < luke-jr> the startmeeting command should do it <.<
+2017-08-10.log:13:00 < wumpus> #endmeeting
+2017-08-16.log:12:00 <@wumpus> #startmeeting
+2017-08-16.log:13:00 <@wumpus> #endmeeting
+2017-08-24.log:12:01 < wumpus> #startmeeting
+2017-08-24.log:13:00 < wumpus> #endmeeting
+2017-08-31.log:12:05 < luke-jr> someone should do the startmeeting command
+2017-08-31.log:12:05 < sipa> #startmeeting
+2017-08-31.log:13:00 < sipa> #endmeeting
+2017-09-14.log:12:00 < wumpus> #startmeeting
+2017-09-14.log:12:59 < wumpus> #endmeeting
+2017-09-21.log:12:00 < wumpus> #startmeeting
+2017-09-21.log:13:00 < wumpus> #endmeeting
+2017-09-28.log:12:01 < wumpus> #startmeeting
+2017-09-28.log:13:03 < wumpus> #endmeeting
+2017-10-05.log:12:02 < jonasschnelli> #startmeeting
+2017-10-05.log:13:01 < wumpus> #endmeeting
+2017-10-12.log:12:02 < wumpus> #startmeeting
+2017-10-12.log:12:58 < wumpus> #endmeeting
+2017-10-15.log:12:26 < geezas> here's a link that effectively gives a dynamic up-to-date list of all meeting starts and convenient access to the logs, convenient to bookmark: https://botbot.me/freenode/bitcoin-core-dev/search/?q=%23startmeeting
+2017-10-19.log:12:00 < wumpus> #startmeeting
+2017-10-19.log:12:31 < wumpus> #endmeeting
+2017-10-26.log:12:00 < wumpus> #startmeeting
+2017-10-26.log:12:52 < wumpus> #endmeeting
+2017-11-02.log:12:01 < wumpus> #startmeeting
+2017-11-02.log:12:42 < wumpus> #endmeeting
+2017-11-09.log:11:02 < wumpus> #startmeeting
+2017-11-09.log:11:36 < wumpus> #endmeeting
+2017-11-16.log:11:01 < wumpus> #startmeeting
+2017-11-16.log:12:01 < wumpus> #endmeeting
+2017-11-23.log:11:02 < wumpus> #startmeeting
+2017-11-23.log:11:06 < wumpus> #endmeeting
+2017-11-30.log:11:00 < wumpus> #startmeeting
+2017-11-30.log:12:00 < wumpus> #endmeeting
+2017-12-07.log:11:00 < wumpus> #startmeeting
+2017-12-07.log:12:00 < wumpus> #endmeeting
+2017-12-14.log:11:00 < wumpus> #startmeeting
+2017-12-14.log:12:00 < wumpus> #endmeeting
+2017-12-21.log:11:01 < wumpus> #startmeeting
+2017-12-21.log:12:00 < wumpus> #endmeeting
+2017-12-28.log:11:03 < jonasschnelli> #startmeeting
+2017-12-28.log:11:19 < jonasschnelli> #endmeeting
+2018-01-04.log:11:02 < jonasschnelli> #startmeeting
+2018-01-04.log:11:24 < jonasschnelli> #endmeeting
+2018-01-11.log:11:00 < wumpus> #startmeeting
+2018-01-11.log:12:00 < wumpus> #endmeeting
+2018-01-18.log:11:00 < wumpus> #startmeeting
+2018-01-18.log:11:39 < wumpus> #endmeeting
+2018-01-25.log:11:00 < wumpus> #startmeeting
+2018-01-25.log:11:30 < wumpus> #endmeeting
+2018-02-01.log:11:00 < wumpus> #startmeeting
+2018-02-01.log:11:30 < wumpus> #endmeeting
+2018-02-08.log:11:00 < wumpus> #startmeeting
+2018-02-08.log:11:28 < wumpus> #endmeeting
+2018-02-15.log:11:01 < wumpus> #startmeeting
+2018-02-15.log:11:48 < wumpus> #endmeeting
+2018-02-22.log:11:01 < wumpus> #startmeeting
+2018-02-22.log:11:13 < wumpus> #endmeeting
+2018-03-01.log:11:04 < wumpus> #startmeeting
+2018-03-01.log:11:29 < wumpus> #endmeeting
+2018-03-15.log:12:01 < wumpus> #startmeeting
+2018-03-15.log:12:33 < wumpus> #endmeeting
+2018-03-22.log:12:00 < wumpus> #startmeeting
+2018-03-22.log:13:00 < wumpus> #endmeeting
+2018-03-29.log:12:03 < wumpus> #startmeeting
+2018-03-29.log:12:44 < wumpus> #endmeeting
+2018-04-05.log:12:00 < wumpus> #startmeeting
+2018-04-05.log:12:32 < wumpus> #endmeeting
+2018-04-12.log:12:01 < wumpus> #startmeeting
+2018-04-12.log:12:56 < wumpus> #endmeeting
+2018-04-19.log:12:00 <@wumpus> #startmeeting
+2018-04-19.log:12:56 <@wumpus> #endmeeting
+2018-04-26.log:12:00 < wumpus> #startmeeting
+2018-04-26.log:12:38 < wumpus> #endmeeting
+2018-05-03.log:12:00 <@wumpus> #startmeeting
+2018-05-03.log:12:57 <@wumpus> #endmeeting
+2018-05-10.log:12:00 < wumpus> #startmeeting
+2018-05-10.log:13:00 < wumpus> #endmeeting
+2018-05-17.log:12:00 < wumpus> #startmeeting
+2018-05-17.log:12:58 < wumpus> #endmeeting
+2018-05-24.log:12:00 < wumpus> #startmeeting
+2018-05-24.log:12:59 < wumpus> #endmeeting
+2018-05-31.log:12:02 <@wumpus> #startmeeting
+2018-05-31.log:13:00 <@wumpus> #endmeeting
+2018-06-07.log:12:00 < wumpus> #startmeeting
+2018-06-07.log:12:45 < wumpus> #endmeeting
+2018-06-14.log:12:00 < wumpus> #startmeeting
+2018-06-14.log:13:00 < wumpus> #endmeeting
+2018-06-21.log:12:00 < sipa> #startmeeting
+2018-06-21.log:13:00 < sipa> #endmeeting
+2018-06-28.log:12:00 < wumpus> #startmeeting
+2018-06-28.log:12:59 < wumpus> #endmeeting
+2018-07-05.log:12:00 < wumpus> #startmeeting
+2018-07-05.log:12:22 < sipa> endmeeting and i'll start a new one
+2018-07-05.log:12:22 < wumpus> #endmeeting
+2018-07-05.log:12:22 < sipa> #startmeeting
+2018-07-05.log:12:51 < sipa> #endmeeting
+2018-07-12.log:12:00 < wumpus> #startmeeting
+2018-07-12.log:12:55 < wumpus> #endmeeting
+2018-07-19.log:12:02 < wumpus> #startmeeting
+2018-07-19.log:12:59 < wumpus> #endmeeting
+2018-07-26.log:12:01 < wumpus> #startmeeting
+2018-07-26.log:12:56 < wumpus> #endmeeting
+2018-08-02.log:12:01 < wumpus> #startmeeting
+2018-08-02.log:13:00 < wumpus> #endmeeting
+2018-08-09.log:12:05 < sipa> #startmeeting
+2018-08-09.log:12:44 < sipa> #endmeeting
+2018-08-16.log:12:03 < wumpus> #startmeeting
+2018-08-16.log:13:00 < wumpus> #endmeeting
+2018-08-23.log:12:00 < wumpus> #startmeeting
+2018-08-23.log:13:00 < wumpus> #endmeeting
+2018-08-30.log:12:01 < wumpus> #startmeeting
+2018-08-30.log:12:45 < wumpus> #endmeeting
+2018-09-06.log:12:00 < wumpus> #startmeeting
+2018-09-06.log:12:52 < wumpus> #endmeeting
+2018-09-13.log:12:00 < wumpus> #startmeeting
+2018-09-13.log:13:00 < wumpus> #endmeeting
+2018-09-20.log:12:02 < wumpus> #startmeeting
+2018-09-20.log:12:39 < wumpus> #endmeeting
+2018-09-27.log:12:00 < wumpus> #startmeeting
+2018-09-27.log:12:58 < wumpus> #endmeeting
+2018-10-04.log:12:02 < wumpus> #startmeeting
+2018-10-04.log:12:39 < wumpus> #endmeeting
+2018-10-11.log:12:00 < wumpus> #startmeeting
+2018-10-11.log:12:31 < wumpus> #endmeeting
+2018-10-18.log:12:04 < jonasschnelli> #startmeeting
+2018-10-18.log:13:00 < jonasschnelli> #endmeeting good night, good morning or enjoy your lunch 
+2018-10-19.log:12:04 < sipa> #startmeeting
+2018-10-19.log:13:00 < sipa> #endmeeting
+2018-10-25.log:12:02 < wumpus> #startmeeting
+2018-10-25.log:13:00 < wumpus> #endmeeting
+2018-11-01.log:12:04 < sipa> #startmeeting
+2018-11-01.log:12:48 < sipa> #endmeeting
+2018-11-02.log:12:01 < sipa> #startmeeting
+2018-11-02.log:12:59 < sipa> #endmeeting
+2018-11-08.log:11:00 < wumpus> #startmeeting
+2018-11-08.log:11:55 < wumpus> #endmeeting
+2018-11-15.log:11:00 < wumpus> #startmeeting
+2018-11-15.log:11:19 < wumpus> #endmeeting
+2018-11-16.log:11:15 < sipa> #startmeeting
+2018-11-16.log:11:54 < sipa> #endmeeting
+2018-11-29.log:11:00 < wumpus> #startmeeting
+2018-11-29.log:12:00 < wumpus> #endmeeting
+2018-11-30.log:11:02 < sipa> #startmeeting
+2018-11-30.log:11:06 < sipa> #endmeeting
+2018-11-30.log:11:06 < meshcollider> #startmeeting
+2018-11-30.log:11:52 < meshcollider> #endmeeting
+2018-12-06.log:11:00 <@wumpus> #startmeeting
+2018-12-06.log:11:38 < wumpus> #endmeeting
+2018-12-13.log:11:00 < wumpus> #startmeeting
+2018-12-13.log:12:00 < wumpus> #endmeeting
+2018-12-14.log:11:01 < meshcollider> #startmeeting
+2018-12-14.log:11:41 < meshcollider> #endmeeting
+2018-12-20.log:11:00 < wumpus> #startmeeting
+2018-12-20.log:11:05 < wumpus> #endmeeting
+2019-01-03.log:11:01 < wumpus> #startmeeting
+2019-01-03.log:11:39 < wumpus> #endmeeting
+2019-01-10.log:11:00 < wumpus> #startmeeting
+2019-01-10.log:11:52 < wumpus> #endmeeting
+2019-01-11.log:11:00 < meshcollider> #startmeeting
+2019-01-11.log:11:16 < meshcollider> #endmeeting
+2019-01-17.log:11:01 < wumpus> #startmeeting
+2019-01-17.log:11:21 < wumpus> #endmeeting
+2019-01-24.log:11:00 < wumpus> #startmeeting
+2019-01-24.log:11:47 < wumpus> #endmeeting
+2019-01-25.log:11:08 < sipa> #startmeeting
+2019-01-25.log:12:00 < sipa> #endmeeting
+2019-01-31.log:11:00 < wumpus> #startmeeting
+2019-01-31.log:11:45 < wumpus> #endmeeting
+2019-02-07.log:11:01 < wumpus> #startmeeting
+2019-02-07.log:12:00 < wumpus> #endmeeting
+2019-02-08.log:11:00 < meshcollider> #startmeeting
+2019-02-08.log:11:25 < meshcollider> #endmeeting
+2019-02-14.log:11:00 < wumpus> #startmeeting
+2019-02-14.log:11:34 < wumpus> #endmeeting
+2019-02-21.log:11:06 < wumpus> #startmeeting
+2019-02-21.log:11:16 < wumpus> #endmeeting
+2019-02-28.log:11:00 < wumpus> #startmeeting
+2019-02-28.log:11:55 < wumpus> #endmeeting
+2019-03-01.log:11:00 < meshcollider> #startmeeting
+2019-03-01.log:11:58 < meshcollider> #endmeeting
+2019-03-07.log:11:01 < wumpus> #startmeeting
+2019-03-07.log:11:45 < wumpus> #endmeeting
+2019-03-14.log:12:00 < wumpus> #startmeeting
+2019-03-14.log:12:40 < wumpus> #endmeeting
+2019-03-15.log:11:51 < meshcollider> I think the only commands you need are startmeeting, topic, action, and endmeeting
+2019-03-15.log:12:00 < provoostenator> #startmeeting
+2019-03-15.log:12:22 < provoostenator> #endmeeting
+2019-03-21.log:12:00 < wumpus> #startmeeting
+2019-03-21.log:12:48 < wumpus> #endmeeting
+2019-03-28.log:12:01 < wumpus> #startmeeting
+2019-03-28.log:12:45 < wumpus> #endmeeting
+2019-03-29.log:12:10 < sipa> #startmeeting
+2019-03-29.log:13:04 < sipa> #endmeeting
+2019-04-04.log:12:01 < wumpus> #startmeeting
+2019-04-04.log:12:32 < wumpus> #endmeeting
+2019-04-11.log:12:00 < wumpus> #startmeeting
+2019-04-11.log:12:59 < wumpus> #endmeeting
+2019-04-12.log:12:00 < meshcollider> #startmeeting
+2019-04-12.log:12:56 < meshcollider> #endmeeting
+2019-04-18.log:12:00 < wumpus> #startmeeting
+2019-04-18.log:12:57 < wumpus> #endmeeting
+2019-04-25.log:12:00 < wumpus> #startmeeting
+2019-04-25.log:12:25 < wumpus> #endmeeting
+2019-04-26.log:12:00 < meshcollider> #startmeeting
+2019-04-26.log:12:10 < meshcollider> #endmeeting
+2019-05-02.log:12:01 < wumpus> #startmeeting
+2019-05-02.log:12:14 < wumpus> #endmeeting
+2019-05-09.log:12:01 < wumpus> #startmeeting
+2019-05-09.log:12:21 < wumpus> #endmeeting
+2019-05-10.log:12:00 < meshcollider> #startmeeting
+2019-05-10.log:12:25 < meshcollider> #endmeeting
+2019-05-16.log:12:00 < wumpus> #startmeeting
+2019-05-16.log:12:20 < wumpus> #endmeeting
+2019-05-23.log:12:00 < wumpus> #startmeeting
+2019-05-23.log:12:47 < wumpus> #endmeeting
+2019-05-30.log:12:00 < wumpus> #startmeeting
+2019-05-30.log:12:40 < wumpus> #endmeeting
+2019-06-13.log:12:01 < wumpus> #startmeeting
+2019-06-13.log:12:53 < wumpus> #endmeeting
+2019-06-20.log:12:01 < wumpus> #startmeeting
+2019-06-20.log:12:44 < wumpus> #endmeeting
+2019-06-21.log:12:00 < meshcollider> #startmeeting
+2019-06-21.log:12:46 < meshcollider> #endmeeting
+2019-06-27.log:12:01 < wumpus> #startmeeting
+2019-06-27.log:12:54 < wumpus> #endmeeting
+2019-07-04.log:12:00 < wumpus> #startmeeting
+2019-07-04.log:12:12 < wumpus> #endmeeting
+2019-07-05.log:12:00 < meshcollider> #startmeeting
+2019-07-05.log:12:36 < meshcollider> #endmeeting
+2019-07-11.log:12:00 < wumpus> #startmeeting
+2019-07-11.log:12:25 < wumpus> #endmeeting
+2019-07-18.log:12:00 < wumpus> #startmeeting
+2019-07-18.log:12:58 < wumpus> #endmeeting
+2019-07-25.log:12:00 < wumpus> #startmeeting
+2019-07-25.log:13:00 < wumpus> #endmeeting
+2019-08-01.log:12:00 < wumpus> #startmeeting
+2019-08-01.log:12:40 < MarcoFalke> ok, endmeeting :)
+2019-08-01.log:12:40 < wumpus> #endmeeting
+2019-08-02.log:12:00 < meshcollider> #startmeeting
+2019-08-02.log:12:31 < meshcollider> #endmeeting
+2019-08-08.log:12:01 < wumpus> #startmeeting
+2019-08-08.log:12:45 < wumpus> #endmeeting
+2019-08-15.log:12:00 < wumpus> #startmeeting
+2019-08-15.log:12:39 < wumpus> #endmeeting
+2019-08-16.log:12:00 < meshcollider> #startmeeting
+2019-08-16.log:12:46 < meshcollider> #endmeeting
+2019-08-22.log:12:03 < jonasschnelli> #startmeeting
+2019-08-22.log:12:30 < wumpus> #endmeeting
+2019-08-22.log:12:30 < jonasschnelli> #endmeeting
+2019-08-29.log:12:00 < wumpus> #startmeeting
+2019-08-29.log:12:23 < wumpus> #endmeeting
+2019-08-30.log:12:00 < meshcollider> #startmeeting
+2019-08-30.log:13:02 < meshcollider> #endmeeting
+2019-09-05.log:12:01 < wumpus> #startmeeting
+2019-09-05.log:12:53 < wumpus> #endmeeting
+2019-09-12.log:12:00 < wumpus> #startmeeting
+2019-09-12.log:12:45 < wumpus> #endmeeting
+2019-09-13.log:12:00 < meshcollider> #startmeeting
+2019-09-13.log:12:39 < meshcollider> #endmeeting
+2019-09-19.log:12:00 < wumpus> #startmeeting
+2019-09-19.log:12:39 < wumpus> #endmeeting
+2019-09-27.log:12:03 < jonatack> #startmeeting
+2019-09-27.log:12:13 < jonatack> #endmeeting
+2019-10-03.log:12:01 < wumpus> #startmeeting
+2019-10-03.log:12:33 < wumpus> #endmeeting
+2019-10-17.log:12:00 < wumpus> #startmeeting
+2019-10-17.log:13:01 < wumpus> #endmeeting
+2019-10-24.log:12:00 < wumpus> #startmeeting
+2019-10-24.log:12:50 < wumpus> #endmeeting
+2019-10-25.log:12:00 < meshcollider> #startmeeting
+2019-10-25.log:12:41 < meshcollider> #endmeeting
+2019-10-31.log:12:00 < wumpus> #startmeeting
+2019-10-31.log:13:01 < wumpus> #endmeeting
+2019-11-07.log:11:00 < wumpus> #startmeeting
+2019-11-07.log:12:00 < wumpus> #endmeeting
+2019-11-08.log:11:00 < meshcollider> #startmeeting
+2019-11-08.log:11:24 < meshcollider> #endmeeting
+2019-11-14.log:11:00 < wumpus> #startmeeting
+2019-11-14.log:11:24 < wumpus> #endmeeting
+2019-11-21.log:10:59 < wumpus> #startmeeting
+2019-11-21.log:11:12 < wumpus> #endmeeting
+2019-11-22.log:11:00 < meshcollider> #startmeeting
+2019-11-22.log:11:13 < meshcollider> #endmeeting
+2019-11-28.log:11:01 < wumpus> #startmeeting
+2019-11-28.log:11:03 < wumpus> #endmeeting
+2019-12-05.log:11:00 < wumpus> #startmeeting
+2019-12-05.log:11:25 < wumpus> #endmeeting
+2019-12-12.log:11:01 < wumpus> #startmeeting
+2019-12-12.log:11:52 < wumpus> #endmeeting
+2019-12-19.log:11:00 < wumpus> #startmeeting
+2019-12-19.log:11:12 < wumpus> #endmeeting
+2020-01-02.log:11:38 < wumpus> #endmeeting
+2020-01-09.log:11:00 < wumpus> #startmeeting
+2020-01-09.log:11:15 < wumpus> #endmeeting
+2020-01-16.log:11:00 < wumpus> #startmeeting
+2020-01-16.log:11:20 < wumpus> #endmeeting
+2020-01-17.log:11:00 < meshcollider> #startmeeting
+2020-01-17.log:11:26 < meshcollider> #endmeeting
+2020-01-23.log:11:02 < wumpus> #startmeeting
+2020-01-23.log:11:31 < wumpus> #endmeeting
+2020-01-30.log:11:00 < wumpus> #startmeeting
+2020-01-30.log:11:57 < wumpus> #endmeeting
+2020-01-31.log:11:00 < meshcollider> #startmeeting
+2020-01-31.log:11:57 < meshcollider> #endmeeting
+2020-02-06.log:11:00 < wumpus> #startmeeting
+2020-02-06.log:12:00 < wumpus> #endmeeting
+2020-02-13.log:11:00 < wumpus> #startmeeting
+2020-02-13.log:11:39 < wumpus> #endmeeting
+2020-02-14.log:11:04 < jonatack> #startmeeting
+2020-02-14.log:11:12 < jonatack> #endmeeting
+2020-02-20.log:11:00 < wumpus> #startmeeting
+2020-02-20.log:11:30 < wumpus> #endmeeting
+2020-02-27.log:11:00 < wumpus> #startmeeting
+2020-02-27.log:11:26 < wumpus> #endmeeting
+2020-02-28.log:11:00 < meshcollider> #startmeeting
+2020-02-28.log:12:18 < meshcollider> #endmeeting
+2020-03-05.log:11:00 < wumpus> #startmeeting
+2020-03-05.log:11:39 < wumpus> #endmeeting
+2020-03-12.log:12:00 < wumpus> #startmeeting
+2020-03-12.log:12:59 < wumpus> #endmeeting
+2020-03-13.log:12:00 < meshcollider> #startmeeting
+2020-03-13.log:12:29 < meshcollider> #endmeeting
+2020-03-19.log:12:00 < wumpus> #startmeeting
+2020-03-19.log:12:43 < wumpus> #endmeeting
+2020-03-26.log:12:00 < wumpus> #startmeeting
+2020-03-26.log:12:31 < wumpus> #endmeeting
+2020-03-27.log:12:04 < achow101> #startmeeting
+2020-03-27.log:12:18 < achow101> #endmeeting
+2020-04-02.log:12:01 < wumpus> #startmeeting
+2020-04-02.log:13:00 < wumpus> #endmeeting
+2020-04-09.log:12:00 < wumpus> #startmeeting
+2020-04-09.log:13:01 < wumpus> #endmeeting
+2020-04-10.log:11:40 < MarcoFalke> #proposedwalletmeetingtopic (short topic) Return last processed block in most wallet RPCs
+2020-04-10.log:12:03 < achow101> #startmeeting
+2020-04-10.log:12:39 < achow101> #endmeeting
+2020-04-16.log:12:03 < wumpus> #startmeeting
+2020-04-16.log:13:12 < wumpus> #endmeeting
+2020-04-23.log:12:01 < wumpus> #startmeeting
+2020-04-23.log:12:16 < wumpus> #endmeeting
+2020-04-24.log:12:00 < meshcollider> #startmeeting
+2020-04-24.log:12:09 < meshcollider> #endmeeting
+2020-04-30.log:12:00 < wumpus> #startmeeting
+2020-04-30.log:13:02 < wumpus> #endmeeting
+2020-05-04.log:21:42 < achow101> #proposedwalletmeetingtopic Moving to a new storage database for descriptor wallets
+2020-05-07.log:12:02 < wumpus> #startmeeting
+2020-05-07.log:13:04 < wumpus> #endmeeting
+2020-05-08.log:12:00 < meshcollider> #startmeeting
+2020-05-08.log:12:58 < meshcollider> #endmeeting
+2020-05-14.log:12:00 < wumpus> #startmeeting
+2020-05-14.log:12:44 < wumpus> #endmeeting
+2020-05-21.log:12:01 < wumpus> #startmeeting
+2020-05-21.log:13:01 < wumpus> #endmeeting
+2020-05-22.log:12:00 < meshcollider> #startmeeting
+2020-05-22.log:12:16 < meshcollider> #endmeeting
+2020-05-28.log:12:00 < wumpus> #startmeeting
+2020-05-28.log:13:00 < wumpus> #endmeeting
+2020-06-04.log:12:00 < wumpus> #startmeeting
+2020-06-04.log:13:00 < wumpus> #endmeeting
+2020-06-05.log:12:02 < achow101> #startmeeting
+2020-06-05.log:12:35 < achow101> #endmeeting
+2020-06-11.log:12:00 < wumpus> #startmeeting
+2020-06-11.log:13:00 < wumpus> #endmeeting
+2020-06-17.log:12:10 < achow101> luke-jr: #proposedwalletmeetingtopic
+2020-06-17.log:12:15 < luke-jr> #proposedwalletmeetingtopic revert #6550 (conceptually) - merkle branches stored in the wallet would be useful for pruned nodes [w/ watch-only wallets]
+2020-06-18.log:12:00 < wumpus> #startmeeting
+2020-06-18.log:13:00 < wumpus> #endmeeting
+2020-06-19.log:12:00 < meshcollider> #startmeeting
+2020-06-19.log:12:02 < achow101> [06-17 03:15:04 pm] <luke-jr> #proposedwalletmeetingtopic revert #6550 (conceptually) - merkle branches stored in the wallet would be useful for pruned nodes [w/ watch-only wallets]
+2020-06-19.log:12:19 < meshcollider> #endmeeting
+2020-06-19.log:12:32 < kanzure> #proposedwalletmeetingtopic wallet meeting topics will be aggregated here http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-06-19.log:16:10 < bsm117532> #proposedwalletmeetingtopic descriptor specification for watch-only wallets, and repeated payments without address use via BIP32 paths
+2020-06-25.log:12:00 < wumpus> #startmeeting
+2020-06-25.log:12:13 < wumpus> #endmeeting
+2020-07-09.log:12:00 < wumpus> #startmeeting
+2020-07-09.log:13:02 < wumpus> #endmeeting
+2020-07-16.log:12:00 < wumpus> #startmeeting
+2020-07-16.log:12:29 < wumpus> #endmeeting
+2020-07-17.log:12:00 < meshcollider> #startmeeting
+2020-07-17.log:12:02 < achow101> 2020-06-19.log:16:10 < bsm117532> #proposedwalletmeetingtopic descriptor specification for watch-only wallets, and repeated payments without address use via BIP32 paths
+2020-07-17.log:12:34 < meshcollider> #endmeeting
+2020-07-23.log:12:00 < wumpus> #startmeeting
+2020-07-23.log:12:49 < wumpus> #endmeeting
+2020-07-30.log:12:00 < wumpus> #startmeeting
+2020-07-30.log:12:55 < wumpus> #endmeeting
+2020-07-31.log:12:01 < achow101> #startmeeting
+2020-07-31.log:12:12 < achow101> #endmeeting
+2020-08-06.log:12:01 < wumpus> #startmeeting
+2020-08-06.log:12:52 < wumpus> #endmeeting
+2020-08-06.log:13:39 < achow101> for the wallet meeting, we use #proposedwalletmeetingtopic
+2020-08-11.log:08:00 < jnewbery> #startmeeting
+2020-08-11.log:09:00 < jnewbery> #endmeeting
+2020-08-13.log:12:00 < wumpus> #startmeeting
+2020-08-13.log:12:53 < wumpus> #endmeeting
+2020-08-14.log:12:00 < meshcollider> #startmeeting
+2020-08-14.log:12:16 < meshcollider> #endmeeting
+2020-08-20.log:12:00 < wumpus> #startmeeting
+2020-08-20.log:12:11 < wumpus> #endmeeting
+2020-08-25.log:08:00 < jnewbery> #startmeeting
+2020-08-25.log:09:00 < jnewbery> #endmeeting
+2020-08-27.log:12:03 < jonasschnelli> #startmeeting
+2020-08-27.log:12:55 < jonasschnelli> #endmeeting
+2020-08-28.log:12:00 < meshcollider> #startmeeting
+2020-08-28.log:12:14 < meshcollider> #endmeeting
+2020-09-03.log:12:00 < wumpus> #startmeeting
+2020-09-03.log:13:02 < wumpus> #endmeeting
+2020-09-08.log:08:00 < jnewbery> #startmeeting
+2020-09-08.log:08:59 < jnewbery> #endmeeting
+2020-09-10.log:12:00 < wumpus> #startmeeting
+2020-09-10.log:13:01 < wumpus> #endmeeting
+2020-09-11.log:12:00 < meshcollider> #startmeeting
+2020-09-11.log:12:08 < meshcollider> #endmeeting
+2020-09-17.log:12:01 < wumpus> #startmeeting
+2020-09-17.log:13:02 < wumpus> #endmeeting
+2020-09-22.log:08:00 < jnewbery> #startmeeting
+2020-09-22.log:09:00 < jnewbery> #endmeeting
+2020-09-24.log:12:02 < wumpus> #startmeeting
+2020-09-24.log:12:46 < wumpus> #endmeeting
+2020-10-01.log:12:00 < wumpus> #startmeeting
+2020-10-01.log:12:42 < wumpus> #endmeeting
+2020-10-06.log:08:00 < jnewbery> #startmeeting
+2020-10-06.log:08:09 < jnewbery> #endmeeting
+2020-10-08.log:12:02 < wumpus> #startmeeting
+2020-10-08.log:12:59 < wumpus> #endmeeting
+2020-10-09.log:06:09 < achow101> #proposedwalletmeetingtopic: wallet.dat vs wallet.sqlite
+2020-10-09.log:12:00 < meshcollider> #startmeeting
+2020-10-09.log:12:00 < meshcollider> 2:09 AM <achow101> #proposedwalletmeetingtopic: wallet.dat vs wallet.sqlite
+2020-10-09.log:12:32 < meshcollider> #endmeeting
+2020-10-15.log:12:00 < wumpus> #startmeeting
+2020-10-15.log:13:00 < wumpus> #endmeeting
+2020-10-20.log:08:00 < jnewbery> #startmeeting
+2020-10-20.log:08:36 < jnewbery> #endmeeting
+2020-10-22.log:11:59 < wumpus> #startmeeting 
+2020-10-22.log:13:01 < wumpus> #endmeeting
+2020-10-22.log:13:05 < achow101> michaelfolkson: http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt and http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-10-23.log:12:01 < achow101> #startmeeting
+2020-10-23.log:13:00 < achow101> #endmeeting
+2020-10-29.log:12:02 < jonasschnelli> #startmeeting 
+2020-10-29.log:12:03 < jonasschnelli> #startmeeting
+2020-10-29.log:12:03 < MarcoFalke> #startmeeting
+2020-10-29.log:12:54 < jonasschnelli> #endmeeting
+2020-11-02.log:06:47 < vasild> *Wallet* meeting every other Friday -- #proposedwalletmeetingtopic
+2020-11-03.log:01:16 < jonatack> MarcoFalke: maybe add http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt too
+2020-11-03.log:06:33 < MarcoFalke> wumpus: replace https://gist.github.com/moneyball/071d608fdae217c2a6d7c35955881d8a with http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-03.log:06:37 -!- ChanServ changed the topic of #bitcoin-core-dev to: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-03.log:07:00 < jnewbery> #startmeeting
+2020-11-03.log:08:00 < jnewbery> #endmeeting
+2020-11-05.log:11:00 < wumpus> #startmeeting
+2020-11-05.log:11:33 < wumpus> #endmeeting
+2020-11-06.log:11:00 < meshcollider> #startmeeting
+2020-11-06.log:11:30 < meshcollider> #endmeeting
+2020-11-06.log:22:13 < jonasschnelli> achow101: yeah. Wired. Maybe the startmeeting and endmeeting messages are suppressed by the channel/freenode? Some anti spam thing maybe.
+2020-11-10.log:05:33 < jonasschnelli> #startmeeting
+2020-11-10.log:05:33 < jonasschnelli> #endmeeting
+2020-11-10.log:05:33 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-12.log:11:01 < wumpus> #startmeeting
+2020-11-12.log:12:09 < wumpus> #endmeeting
+2020-11-12.log:12:09 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-12.log:13:57 < gribble> Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-17.log:07:00 < jnewbery> #startmeeting
+2020-11-17.log:07:57 < jnewbery> but in any case, we should wrap this up. It's almost endmeeting time.
+2020-11-17.log:07:59 < jnewbery> #endmeeting
+2020-11-17.log:07:59 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-19.log:11:00 < wumpus> #startmeeting
+2020-11-19.log:11:47 < wumpus> #endmeeting
+2020-11-19.log:11:47 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-20.log:11:06 < achow101> #startmeeting
+2020-11-20.log:11:19 < achow101> #endmeeting
+2020-11-20.log:11:19 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-11-26.log:11:00 < wumpus> #startmeeting
+2020-11-26.log:11:51 < wumpus> #endmeeting
+2020-11-26.log:11:51 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-01.log:07:00 < jnewbery> #startmeeting
+2020-12-01.log:07:49 < jnewbery> #endmeeting
+2020-12-01.log:07:49 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-03.log:11:00 < wumpus> #startmeeting
+2020-12-03.log:12:07 < wumpus> #endmeeting
+2020-12-03.log:12:07 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-04.log:11:01 < achow101> #startmeeting
+2020-12-04.log:11:23 < achow101> #endmeeting
+2020-12-04.log:11:23 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-10.log:11:02 < wumpus> #startmeeting
+2020-12-10.log:11:14 < wumpus> #endmeeting
+2020-12-10.log:11:26 < jonasschnelli> #startmeeting
+2020-12-10.log:11:26 < jonasschnelli> #endmeeting
+2020-12-10.log:11:26 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-15.log:07:01 < jnewbery> #startmeeting
+2020-12-15.log:08:01 < jnewbery> #endmeeting
+2020-12-15.log:08:01 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-17.log:11:00 < wumpus> #startmeeting
+2020-12-17.log:12:03 < wumpus> #endmeeting
+2020-12-17.log:12:03 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2020-12-18.log:11:03 < achow101> #startmeeting
+2020-12-18.log:11:09 < achow101> #endmeeting
+2020-12-18.log:11:09 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-07.log:11:00 < wumpus> #startmeeting
+2021-01-07.log:11:59 < wumpus> #endmeeting
+2021-01-07.log:11:59 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-12.log:07:00 < jnewbery> #startmeeting
+2021-01-12.log:07:58 < jnewbery> #endmeeting
+2021-01-12.log:07:58 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-14.log:11:03 < wumpus> #startmeeting
+2021-01-14.log:11:19 < wumpus> #endmeeting
+2021-01-14.log:11:19 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-15.log:11:00 < achow101> #startmeeting
+2021-01-15.log:11:21 < achow101> #endmeeting
+2021-01-15.log:11:21 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-19.log:18:19 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-21.log:11:00 < wumpus> #startmeeting
+2021-01-21.log:11:45 < wumpus> #endmeeting
+2021-01-21.log:11:45 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-01-26.log:07:00 < jnewbery> #startmeeting
+2021-01-26.log:07:05 < jnewbery> #endmeeting
+2021-01-28.log:11:00 < wumpus> #startmeeting
+2021-01-28.log:12:02 < wumpus> #endmeeting
+2021-01-29.log:11:02 < meshcollider> #startmeeting
+2021-01-29.log:11:10 < meshcollider> #endmeeting
+2021-01-29.log:11:13 < meshcollider> #endmeeting
+2021-01-29.log:11:14 < jonasschnelli> the startmeeting or what PM do you get?
+2021-01-29.log:11:36 < jonasschnelli> #startmeeting
+2021-01-29.log:11:36 < jonasschnelli> #endmeeting
+2021-01-29.log:11:38 < jonasschnelli> #startmeeting
+2021-01-29.log:11:38 < jonasschnelli> #endmeeting
+2021-01-29.log:11:38 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-04.log:11:01 < wumpus> #startmeeting
+2021-02-04.log:11:32 < wumpus> #endmeeting
+2021-02-04.log:11:32 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-07.log:03:57 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-09.log:07:38 < jnewbery> #endmeeting
+2021-02-11.log:11:00 < wumpus> #startmeeting
+2021-02-11.log:11:50 < wumpus> #endmeeting
+2021-02-11.log:11:50 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-12.log:11:00 < meshcollider> #startmeeting
+2021-02-12.log:11:16 < meshcollider> #endmeeting
+2021-02-12.log:11:16 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-18.log:11:00 < wumpus> #startmeeting
+2021-02-18.log:11:37 < wumpus> #endmeeting
+2021-02-18.log:11:37 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-23.log:13:00 < jnewbery> #startmeeting
+2021-02-23.log:14:01 < jnewbery> #endmeeting
+2021-02-23.log:14:01 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-25.log:11:00 < wumpus> #startmeeting
+2021-02-25.log:11:26 < wumpus> #endmeeting
+2021-02-25.log:11:26 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-02-26.log:11:03 < achow101> #startmeeting
+2021-02-26.log:11:15 < achow101> #endmeeting
+2021-03-04.log:11:00 < wumpus> #startmeeting
+2021-03-04.log:12:03 < wumpus> #endmeeting
+2021-03-09.log:13:00 < jnewbery> #startmeeting
+2021-03-09.log:14:00 < jnewbery> #endmeeting
+2021-03-09.log:14:00 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-03-16.log:05:51 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-03-18.log:02:02 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-03-18.log:12:00 < wumpus> #startmeeting 
+2021-03-18.log:12:44 < wumpus> #endmeeting
+2021-03-18.log:12:44 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-03-23.log:14:00 < jnewbery> #startmeeting
+2021-03-23.log:14:19 < jnewbery> #endmeeting
+2021-03-23.log:14:19 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-03-25.log:10:57 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-03-25.log:12:00 < wumpus> #startmeeting
+2021-03-25.log:12:58 < wumpus> #endmeeting
+2021-03-26.log:12:00 < achow101> #startmeeting
+2021-03-26.log:12:07 < achow101> #endmeeting
+2021-04-01.log:12:00 < wumpus> #startmeeting
+2021-04-01.log:12:26 < wumpus> #endmeeting
+2021-04-06.log:14:00 < ajonas> #startmeeting
+2021-04-06.log:14:05 < ajonas> #endmeeting
+2021-04-08.log:12:01 < wumpus> #startmeeting
+2021-04-08.log:12:34 < wumpus> #endmeeting
+2021-04-08.log:12:34 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-04-09.log:12:03 < achow101> #startmeeting
+2021-04-09.log:12:16 < achow101> #endmeeting
+2021-04-09.log:12:16 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-04-15.log:12:00 < wumpus> #startmeeting
+2021-04-15.log:12:32 < wumpus> #endmeeting
+2021-04-20.log:14:01 < jnewbery> #startmeeting
+2021-04-20.log:14:56 < jnewbery> #endmeeting
+2021-04-20.log:14:56 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-04-22.log:12:00 < wumpus> #startmeeting
+2021-04-22.log:13:01 < wumpus> #endmeeting
+2021-04-22.log:13:01 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-04-29.log:12:00 < wumpus> #startmeeting
+2021-04-29.log:12:25 < wumpus> #endmeeting
+2021-04-29.log:12:25 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-04.log:14:00 < jnewbery> #startmeeting
+2021-05-04.log:14:07 < jnewbery> #endmeeting
+2021-05-04.log:14:07 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-06.log:12:00 < wumpus> #startmeeting
+2021-05-06.log:12:20 < wumpus> #endmeeting
+2021-05-06.log:12:20 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-07.log:12:01 < achow101> #startmeeting
+2021-05-07.log:12:30 < achow101> #endmeeting
+2021-05-07.log:12:30 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-13.log:12:00 < wumpus> #startmeeting
+2021-05-13.log:12:34 < wumpus> #endmeeting
+2021-05-13.log:12:34 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-18.log:14:00 < jnewbery> #startmeeting
+2021-05-18.log:14:06 < jnewbery> #endmeeting
+2021-05-18.log:14:06 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-20.log:12:02 < wumpus> #startmeeting
+2021-05-20.log:13:01 < wumpus> #endmeeting
+2021-05-20.log:13:01 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-21.log:12:02 < achow101> #startmeeting
+2021-05-21.log:12:33 < achow101> #endmeeting
+2021-05-21.log:12:33 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-26.log:07:48 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-26.log:07:49 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-26.log:14:38 < jonasschnelli> #startmeeting
+2021-05-26.log:14:38 < jonasschnelli> #endmeeting
+2021-05-26.log:14:38 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-05-27.log:12:00 < laanwj> #startmeeting
+2021-05-27.log:12:29 < laanwj> #endmeeting
+2021-05-27.log:12:29 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-01.log:14:01 < jnewbery> #startmeeting
+2021-06-01.log:14:05 < jnewbery> #endmeeting
+2021-06-01.log:14:05 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-03.log:12:02 < laanwj> #startmeeting
+2021-06-03.log:12:26 < laanwj> #endmeeting
+2021-06-03.log:12:26 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-04.log:11:08 < achow101> #proposedwalletmeetingtopic subtract fee from recipients intended behavior and edge cases
+2021-06-04.log:12:00 < achow101> #startmeeting
+2021-06-04.log:12:39 < achow101> #endmeeting
+2021-06-04.log:12:39 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-09.log:08:47 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-09.log:08:57 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-10.log:12:00 < laanwj> #startmeeting
+2021-06-10.log:12:23 < laanwj> #endmeeting
+2021-06-10.log:12:23 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-15.log:14:00 < jnewbery_> #startmeeting
+2021-06-15.log:14:23 < jnewbery_> #endmeeting
+2021-06-15.log:14:23 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-17.log:12:00 < laanwj> #startmeeting
+2021-06-17.log:12:33 < laanwj> #endmeeting
+2021-06-17.log:12:33 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-18.log:12:01 < achow101> #startmeeting
+2021-06-18.log:12:11 < achow101> #endmeeting
+2021-06-18.log:12:11 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-24.log:09:25 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-06-24.log:12:01 < laanwj> #startmeeting
+2021-06-24.log:12:35 < laanwj> #endmeeting
+2021-06-24.log:12:35 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-01.log:12:00 < laanwj> #startmeeting
+2021-07-01.log:13:05 < laanwj> #endmeeting
+2021-07-01.log:13:05 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-02.log:12:05 < achow101> #startmeeting
+2021-07-02.log:12:22 < achow101> #endmeeting
+2021-07-02.log:12:22 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-08.log:12:00 < laanwj> #startmeeting
+2021-07-08.log:12:15 < laanwj> #endmeeting
+2021-07-08.log:12:15 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-11.log:22:16 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-15.log:12:00 < laanwj> #startmeeting
+2021-07-15.log:12:34 < laanwj> #endmeeting
+2021-07-15.log:12:34 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-16.log:12:00 < meshcollider> #startmeeting
+2021-07-16.log:12:34 < meshcollider> #endmeeting
+2021-07-16.log:12:34 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-22.log:06:23 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-22.log:12:00 < laanwj> #startmeeting
+2021-07-22.log:12:08 < laanwj> #endmeeting
+2021-07-22.log:12:08 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-26.log:00:27 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-29.log:12:01 < laanwj> #startmeeting
+2021-07-29.log:12:23 < laanwj> #endmeeting
+2021-07-29.log:12:23 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-07-30.log:12:04 < achow101> #startmeeting
+2021-07-30.log:12:50 < achow101> #endmeeting
+2021-07-30.log:12:50 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-05.log:12:00 < laanwj> #startmeeting
+2021-08-05.log:12:22 < laanwj> #endmeeting
+2021-08-05.log:12:22 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-12.log:12:00 < laanwj> #startmeeting
+2021-08-12.log:12:23 < laanwj> #endmeeting
+2021-08-12.log:12:23 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-13.log:12:00 < achow101> #startmeeting
+2021-08-13.log:12:29 < achow101> #endmeeting
+2021-08-13.log:12:29 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-19.log:12:00 < laanwj> #startmeeting
+2021-08-19.log:12:35 < laanwj> #endmeeting
+2021-08-19.log:12:35 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-20.log:00:14 < Guest28> #startmeeting
+2021-08-20.log:00:14 < fanquake> #endmeeting
+2021-08-20.log:00:32 < Guest28> #endmeeting
+2021-08-20.log:00:32 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-20.log:01:10 < Yihen> #startmeeting
+2021-08-20.log:01:17 < fanquake> No need to be nervous. However you don't need a meeting. So can you do #endmeeting
+2021-08-20.log:01:17 < Yihen> #endmeeting
+2021-08-20.log:01:17 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-26.log:12:00 < laanwj> #startmeeting
+2021-08-26.log:12:11 < laanwj> #endmeeting
+2021-08-26.log:12:11 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-27.log:09:54 < prayank> #proposedwalletmeetingtopic
+2021-08-27.log:09:58 < michaelfolkson> #proposedwalletmeetingtopic and then your topic :)
+2021-08-27.log:09:58 < michaelfolkson> e.g. #proposedwalletmeetingtopic Don't use wallet across chains
+2021-08-27.log:09:59 < prayank> #proposedwalletmeetingtopic wallet files should not be reused across chains
+2021-08-27.log:11:06 < S3RK> #proposedwalletmeetingtopic automatically adding record to adress book to prevent #19856
+2021-08-27.log:12:01 < achow101> #startmeeting
+2021-08-27.log:12:40 < achow101> #endmeeting
+2021-08-27.log:12:40 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-08-30.log:21:35 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-02.log:12:00 < laanwj> #startmeeting
+2021-09-02.log:12:15 < laanwj> #endmeeting
+2021-09-02.log:12:15 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-09.log:12:00 < laanwj> #startmeeting
+2021-09-09.log:12:07 < laanwj> #endmeeting
+2021-09-09.log:12:07 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-10.log:12:01 < meshcollider> #startmeeting
+2021-09-10.log:12:25 < meshcollider> #endmeeting
+2021-09-10.log:12:25 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-16.log:12:04 < laanwj> #startmeeting
+2021-09-16.log:12:30 < laanwj> #endmeeting
+2021-09-16.log:12:30 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-23.log:11:22 < sipa> #proposedwalletmeetingtopic (by fi3) rust library in bitcoin core (23049)
+2021-09-23.log:11:53 < michaelfolkson> #proposedwalletmeetingtopic
+2021-09-23.log:12:00 < laanwj> #startmeeting
+2021-09-23.log:12:26 < laanwj> #endmeeting
+2021-09-23.log:12:26 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-24.log:12:00 < meshcollider> #startmeeting
+2021-09-24.log:12:48 < meshcollider> #endmeeting
+2021-09-24.log:12:48 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-09-30.log:00:55 < S3RK> #proposedwalletmeetingtopic two descriptors generating same scriptpubkey
+2021-09-30.log:12:01 < laanwj> #startmeeting
+2021-09-30.log:12:23 < laanwj> #endmeeting
+2021-09-30.log:12:23 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-10-04.log:09:57 < achow101> #proposedwalletmeetingtopic expand fundrawtx external input support to allow arbitrary scripts
+2021-10-07.log:12:00 < laanwj> #startmeeting
+2021-10-07.log:12:32 < laanwj> #endmeeting
+2021-10-08.log:12:01 < achow101> #startmeeting
+2021-10-08.log:12:24 < achow101> #endmeeting
+2021-10-20.log:05:57 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-10-21.log:12:04 < laanwj> #startmeeting
+2021-10-21.log:12:59 < laanwj> #endmeeting
+2021-10-22.log:11:36 < michaelfolkson> [21:46:21]  <achow101> #proposedwalletmeetingtopic feature_segwit.py
+2021-10-22.log:11:36 < michaelfolkson> [21:46:28]  <achow101> #proposedwalletmeetingtopic feature_segwit.py's dependency on legacy wallet
+2021-10-22.log:12:00 < achow101> #startmeeting
+2021-10-22.log:12:34 < achow101> #endmeeting
+2021-10-22.log:12:34 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-10-27.log:10:00 < glozow> #startmeeting
+2021-10-27.log:10:00 < glozow> #endmeeting
+2021-10-27.log:10:00 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-10-28.log:12:00 < laanwj> #startmeeting
+2021-10-28.log:12:08 < laanwj> #endmeeting
+2021-10-28.log:12:08 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-04.log:07:44 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-04.log:12:00 < laanwj> #startmeeting
+2021-11-04.log:12:22 < laanwj> #endmeeting
+2021-11-04.log:12:22 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-09.log:08:05 < Guest75>  #startmeeting
+2021-11-11.log:11:00 < laanwj> #startmeeting
+2021-11-11.log:11:46 < laanwj> #endmeeting
+2021-11-11.log:11:46 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-15.log:12:23 < achow101> #proposedwalletmeetingtopic how to estimate sizes for taproot inputs
+2021-11-18.log:11:00 < laanwj> #startmeeting
+2021-11-18.log:11:40 < laanwj> #endmeeting
+2021-11-18.log:11:40 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-19.log:11:00 < achow101> #startmeeting
+2021-11-19.log:11:46 < achow101> #endmeeting
+2021-11-19.log:11:46 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-25.log:11:00 < laanwj> #startmeeting
+2021-11-25.log:11:08 < laanwj> #endmeeting
+2021-11-25.log:11:08 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-28.log:22:07 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-11-30.log:16:30 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-12-02.log:11:00 < laanwj> #startmeeting
+2021-12-02.log:11:30 < laanwj> #endmeeting
+2021-12-02.log:11:30 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-12-09.log:11:00 < laanwj> #startmeeting
+2021-12-09.log:11:16 < laanwj> #endmeeting
+2021-12-09.log:11:16 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-12-15.log:16:05 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-12-16.log:11:00 < laanwj> #startmeeting
+2021-12-16.log:11:51 < laanwj> #endmeeting
+2021-12-16.log:11:51 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2021-12-17.log:11:00 < achow101> #startmeeting
+2021-12-17.log:11:52 < achow101> #endmeeting
+2021-12-17.log:11:52 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-05.log:02:20 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-06.log:11:00 < laanwj> #startmeeting
+2022-01-06.log:11:26 < laanwj> #endmeeting
+2022-01-06.log:11:26 < core-meetingbot> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-13.log:11:00 < laanwj> #startmeeting
+2022-01-13.log:11:43 < laanwj> #endmeeting
+2022-01-13.log:11:43 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-14.log:11:00 < achow101> #startmeeting
+2022-01-14.log:11:04 < achow101> #endmeeting
+2022-01-14.log:11:04 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-19.log:04:50 -!- Topic for #bitcoin-core-dev: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-20.log:11:01 < laanwj> #startmeeting
+2022-01-20.log:11:46 < laanwj> #endmeeting
+2022-01-20.log:11:46 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-27.log:11:01 < laanwj> #startmeeting
+2022-01-27.log:11:10 < laanwj> #endmeeting
+2022-01-27.log:11:10 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-01-28.log:03:52 < michaelfolkson> #proposedwalletmeetingtopic Taproot support in the wallet (open PRs, latest thinking)
+2022-01-28.log:10:12 < darosior> #proposedwalletmeetingtopic labels for ranged descriptors
+2022-01-28.log:11:00 < achow101> #startmeeting
+2022-01-28.log:11:02 < michaelfolkson> [18:12:49]  <darosior> #proposedwalletmeetingtopic labels for ranged descriptors
+2022-01-28.log:11:43 < achow101> #endmeeting
+2022-01-28.log:11:43 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-02-03.log:11:00 < laanwj> #startmeeting
+2022-02-03.log:11:39 < laanwj> #endmeeting
+2022-02-03.log:11:39 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-02-10.log:10:48 < prayank> #proposedwalletmeetingtopic what are the issues with payjoin not available in bitcoin core? Context: https://www.reddit.com/r/Bitcoin/comments/soesbt/will_payjoin_bip78_catch_on/
+2022-02-10.log:11:01 < laanwj> #startmeeting
+2022-02-10.log:12:01 < laanwj> #endmeeting
+2022-02-10.log:12:01 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-02-11.log:11:00 < achow101> #startmeeting
+2022-02-11.log:11:04 < Murch> #proposedwalletmeetingtopic Better name for `sweepwallet` RPC
+2022-02-11.log:11:41 < achow101> #endmeeting
+2022-02-11.log:11:41 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-02-17.log:11:00 < laanwj> #startmeeting
+2022-02-17.log:11:24 < laanwj> #endmeeting
+2022-02-17.log:11:24 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-02-24.log:11:00 < laanwj> #startmeeting
+2022-02-24.log:12:05 < laanwj> #endmeeting
+2022-02-24.log:12:05 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-02-25.log:11:00 < achow101> #startmeeting
+2022-02-25.log:11:03 < achow101> #endmeeting
+2022-02-25.log:11:03 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-03-03.log:11:01 < laanwj> #startmeeting
+2022-03-03.log:11:14 < laanwj> #endmeeting
+2022-03-03.log:11:14 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-03-10.log:11:00 < laanwj> #startmeeting
+2022-03-10.log:11:51 < laanwj> #endmeeting
+2022-03-10.log:11:51 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-03-11.log:11:00 < achow101> #startmeeting
+2022-03-11.log:11:03 < jeremyrubin> #proposedwalletmeetingtopic what are hww / hwi supposed to do with PSBTs / Signer role functionality 
+2022-03-11.log:11:18 < achow101> #endmeeting
+2022-03-11.log:11:18 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
+2022-03-17.log:12:00 < laanwj> #startmeeting
+2022-03-17.log:13:00 < laanwj> #endmeeting
+2022-03-17.log:13:00 < core-meetingbot`> topic: Bitcoin Core development discussion and commit log | Feel free to watch, but please take commentary and usage questions to #bitcoin | Channel logs: http://www.erisian.com.au/bitcoin-core-dev/, http://gnusha.org/bitcoin-core-dev/ | Meeting topics http://gnusha.org/bitcoin-core-dev/proposedmeetingtopics.txt / http://gnusha.org/bitcoin-core-dev/proposedwalletmeetingtopics.txt
